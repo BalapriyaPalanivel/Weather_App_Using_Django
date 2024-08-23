@@ -2,6 +2,9 @@
 
 A simple weather application built with Django that allows users to check current weather conditions for any city.
 
+## Screenshot
+![Weather App Screenshot](images/weather-app.png)
+
 ## Features
 
 - View current weather conditions including temperature, humidity, and weather description.
